@@ -1,5 +1,5 @@
 # Quiz Aplication
-Um simples aplicativo desktop de perguntas e respostas.
+Um simples aplicativo desktop de perguntas e respostas. ***Aplicativo feito apenas por diversão!***
 
 ## Getting started
 
