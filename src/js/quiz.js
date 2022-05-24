@@ -8,8 +8,6 @@ Correta = Posição na Array das alternativas a opção correta (Number)
 const quiz = [
     { title: "Quanto é 1+1?", alternativas: ["1","2","3","4"], correta: 1 },
     { title: "Qual é o resultado de: 4 + x = 16", alternativas: ["12","16","6","22"], correta: 0 },
-    { title: "Quem descobriu o Brasil?", alternativas: ["Pedro Alvares C.", "Karl Marx", "Nicola Tesla", "Santos Dumont"], correta: 0 },
-    { title: "Quem descobriu o Brasil?", alternativas: ["Pedro Alvares C.", "Karl Marx", "Nicola Tesla", "Santos Dumont"], correta: 0 },
     { title: "Quem descobriu o Brasil?", alternativas: ["Pedro Alvares C.", "Karl Marx", "Nicola Tesla", "Santos Dumont"], correta: 0 }
 ];
 
