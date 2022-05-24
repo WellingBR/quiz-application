@@ -1,0 +1,16 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "Um simples aplicativo desktop de perguntas e respostas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "build:linux": "electron-builder --linux"
+  },
+  "keywords": [],
+  "author": "WellingBR",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.3.0"
+  }
+}

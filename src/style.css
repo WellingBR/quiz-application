@@ -1,0 +1,73 @@
+body {
+    background-color: #23282c;
+    color: white;
+
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #9b9b9b #23282c;
+}
+  
+  /* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+    width: 12px;
+}
+  
+*::-webkit-scrollbar-track {
+    background: #23282c;
+    border-radius: 20px;
+}
+  
+*::-webkit-scrollbar-thumb {
+    background-color: #9b9b9b;
+    border-radius: 20px;
+    border: 3px solid #23282c;
+}
+
+.navbar {
+    border-bottom: 2px solid #17a2b8;
+}
+
+.navbar-brand {
+    color: #17a2b8 !important
+}
+
+.container {
+    background: #343a40;
+    margin-top: 8px;
+    height: calc(100vh - 58px - 8px);
+    border-radius: 20px 20px 0px 0px;
+    border-left: 2px solid #17a2b8;
+    border-right: 2px solid #17a2b8;
+    border-top: 2px solid #17a2b8;
+}
+
+.icon {
+    position: relative;
+    bottom: 1px;
+    width: 18px;
+    height: 18px;
+}
+
+#quiz {
+    overflow: auto;
+    height: 250px;
+}
+
+#quiz h5 {
+    font-weight: bold;
+}
+
+#quiz .btn-group-toggle label {
+    display: block
+}
+
+#send {
+    margin-top: 10px;
+    float: right
+}
+
+th {
+    text-align: center
+}
